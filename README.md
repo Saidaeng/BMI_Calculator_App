@@ -15,9 +15,14 @@ I was responsible for **all aspects of the project**, including application desi
 ### Pictures
 
 
-<img src="https://drive.google.com/uc?export=view&id=1HgIa101OEKXwHWhnj6DwmsRq0mNuyrY0" width="250">   <img src="https://drive.google.com/uc?export=view&id=18iYErA8O20JjU5OmszKFTsKBjgN0xbmz" width="250">   <img src="https://drive.google.com/uc?export=view&id=1W7GshBaLWmAgiDs1wMlOWHMcQcZSM9TA" width="250">
-<img src="https://drive.google.com/file/d/1Thi1x_7FoNfM1VW-dIcHMLlpe2SmRT1g/view?usp=drive_link" width="250">   <img src="https://drive.google.com/file/d/1k7-cfYZsWD7wYP2pjF3IMhqWgBsJkHI1/view?usp=drive_link" width="250">   <img src="https://drive.google.com/file/d/1XKxVi38tYZNYLusAmeXjgbrjcQ9a4iSU/view?usp=drive_link" width="250">
-<img src="https://drive.google.com/file/d/1Thi1x_7FoNfM1VW-dIcHMLlpe2SmRT1g/view?usp=drive_link" width="250">   <img src="https://drive.google.com/file/d/1k7-cfYZsWD7wYP2pjF3IMhqWgBsJkHI1/view?usp=drive_link" width="250">
+<img src="https://drive.google.com/uc?export=view&id=1A_t8FdwQwJjM9aG3hP-i6vF4kth1Bse8" width="200">   <img src="https://drive.google.com/uc?export=view&id=1TKAPe2Xh8Mgs4S68E0gptatPPpdEyQtp" width="200">
 
+<img src="https://drive.google.com/uc?export=view&id=1apKzbGzrdAEuXBCTkdXL8tubWuSYBsIU" width="200">   <img src="https://drive.google.com/uc?export=view&id=1BCCihQBhBTL8fLO2Nh8DhaXlgCfeX1y1" width="200">
+
+<img src="https://drive.google.com/uc?export=view&id=1Thi1x_7FoNfM1VW-dIcHMLlpe2SmRT1g" width="200">   <img src="https://drive.google.com/uc?export=view&id=1k7-cfYZsWD7wYP2pjF3IMhqWgBsJkHI1" width="200">
+
+<img src="https://drive.google.com/uc?export=view&id=1XKxVi38tYZNYLusAmeXjgbrjcQ9a4iSU" width="200">   <img src="https://drive.google.com/uc?export=view&id=1vWLg4J7fmGjVnOB2usCTzBr6ztl_N_Gv" width="200">
+
+<img src="https://drive.google.com/uc?export=view&id=1TdsA9L1se9IbRyh9ywEpU2cD_TXhlLTi" width="200">
 
 ---
