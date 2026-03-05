@@ -22,4 +22,7 @@ I was responsible for **all aspects of the project**, including application desi
 <img src="https://drive.google.com/uc?export=view&id=1k7-cfYZsWD7wYP2pjF3IMhqWgBsJkHI1" width="250">
 <img src="https://drive.google.com/uc?export=view&id=1XKxVi38tYZNYLusAmeXjgbrjcQ9a4iSU" width="250">
 
+<img src="https://drive.google.com/uc?export=view&id=1Thi1x_7FoNfM1VW-dIcHMLlpe2SmRT1g" width="250">
+<img src="https://drive.google.com/uc?export=view&id=1k7-cfYZsWD7wYP2pjF3IMhqWgBsJkHI1" width="250">
+
 ---
