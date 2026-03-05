@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ตัวอย่างขนาด padding และ margin -->
+    <dimen name="padding">12dp</dimen>
+    <dimen name="min_w">140dp</dimen>
+    <dimen name="max_w">140dp</dimen>
+    <dimen name="pd_end">15dp</dimen>
+    <dimen name="l_m_start">15dp</dimen>
+    <dimen name="l_margin_t">32dp</dimen>
+    <dimen name="l_margin_e">18dp</dimen>
+    <dimen name="margin_top">45dp</dimen>
+    <dimen name="layout_marginBottom">16dp</dimen>
+
+</resources>

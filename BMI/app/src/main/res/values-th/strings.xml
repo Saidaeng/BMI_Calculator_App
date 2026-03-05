@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="head_name">ค่าดัชนีมวลกาย</string>
+    <string name="weight">น้ำหนัก (กิโลกรัม)</string>
+    <string name="height">ส่วนสูง (เซนติเมตร)</string>
+    <string name="bmi">ค่าดัชนีมวลกาย</string>
+    <string name="within_criteria">อยู่ในเกณฑ์</string>
+    <string name="calculate">คำนวณ</string>
+    <string name="enter_w">กรุณากรอกน้ำหนัก</string>
+    <string name="enter_h">กรุณากรอกส่วนสูง</string>
+    <string name="severe_thinness">ผอมมาก</string>
+    <string name="moderate_thinness">ผอมปานกลาง</string>
+    <string name="mild_thinness">ผอมเล็กน้อย</string>
+    <string name="normal">ปกติ</string>
+    <string name="overweight">น้ำหนักเกิน</string>
+    <string name="obese_i">โรคอ้วนระดับ 1</string>
+    <string name="obese_ii">โรคอ้วนระดับ 2</string>
+    <string name="obese_iii">โรคอ้วนระดับ 3</string>
+    <string name="input_error">กรุณากรอกตัวเลขที่ถูกต้อง</string>
+    <string name="input_complete">กรุณากรอกข้อมูลให้ครบถ้วน</string>
+    <string name="decimal_format">#,###.##</string>
+
+</resources>

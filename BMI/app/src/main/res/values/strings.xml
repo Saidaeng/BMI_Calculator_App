@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="head_name">Body Mass Index :BMI</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (cm)</string>
+    <string name="bmi">BMI</string>
+    <string name="within_criteria">Within Criteria</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_w">Enter weight</string>
+    <string name="enter_h">Enter height</string>
+    <string name="severe_thinness">Severe Thinness</string>
+    <string name="moderate_thinness">Moderate Thinness</string>
+    <string name="mild_thinness">Mild Thinness</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_i">Obese Class I</string>
+    <string name="obese_ii">Obese Class II</string>
+    <string name="obese_iii">Obese Class III</string>
+    <string name="input_error">Please enter a valid number</string>
+    <string name="input_complete">Please complete the information</string>
+    <string name="decimal_format" >#,###.##</string>
+
+    <string name="bmi_severe_thinness" translatable="false">16</string>
+    <string name="bmi_moderate_thinness" translatable="false">17</string>
+    <string name="bmi_mild_thinness" translatable="false">18.5</string>
+    <string name="bmi_normal" translatable="false">25</string>
+    <string name="bmi_overweight" translatable="false">30</string>
+    <string name="bmi_obese_i" translatable="false">35</string>
+    <string name="bmi_obese_ii" translatable="false">40</string>
+</resources>
